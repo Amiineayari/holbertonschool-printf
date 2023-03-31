@@ -14,4 +14,4 @@ long int printing_number(va_list liste);
 int numbers(long int n, long int c, int f);
 void print_char(va_list p);
 int print_string(va_list p);
-#endif
+ #endif
