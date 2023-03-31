@@ -192,9 +192,5 @@ it.  There is NO WARRANTY, to the extent permitted by law.
 .SH AUTHORS
 .PP
 .RS
-.nf
-This man  page  is  created  by: 
-    - [CyrineZekri] : (https://github.com/CyrineZekri)
-    - [Amine Khammessi] : (https://github.com/Aminekham)
 .PP
 _printf()
