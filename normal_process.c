@@ -39,5 +39,5 @@ int normal_process(const char *format, int l, va_list liste)
 			}
 		}
 	}
-	return (l);
+return (l);
 }
