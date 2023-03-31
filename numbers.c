@@ -29,5 +29,5 @@ int numbers(long int n, long int c, int f)
 	{
 		_putchar(n + '0');
 	}
-	return (f);
+return (f);
 }
