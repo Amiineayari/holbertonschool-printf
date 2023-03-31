@@ -32,5 +32,5 @@ int print_string(va_list p)
 			i++;
 		}
 	}
-	return (i);
+return (i);
 }
