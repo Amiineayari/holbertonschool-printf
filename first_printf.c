@@ -19,5 +19,5 @@ int _printf(const char *format, ...)
 		l = normal_process(format, 0, liste);
 	}
 	va_end(liste);
-	return (l);
+return (l);
 }
