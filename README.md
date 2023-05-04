@@ -1,114 +1,33 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Cool Project README</title>
-	<style>
-		body {
-			background-color: #333;
-			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-			color: #fff;
-		}
-    	h1 {
-		font-size: 3em;
-		color: #fff;
-		text-align: center;
-		margin-top: 50px;
-		text-shadow: 2px 2px #000;
-	}
-	
-	h2 {
-		font-size: 2em;
-		color: #fff;
-		margin-top: 30px;
-		text-shadow: 2px 2px #000;
-	}
-	
-	p {
-		font-size: 1.2em;
-		line-height: 1.5em;
-		color: #ccc;
-		margin-top: 15px;
-	}
-	
-	code {
-		font-family: monospace;
-		background-color: #f8f8f8;
-		border: 1px solid #ccc;
-		padding: 2px 5px;
-		color: #333;
-	}
-	
-	a {
-		color: #fff;
-		text-decoration: none;
-	}
-	
-	a:hover {
-		text-decoration: underline;
-	}
-	
-	.container {
-		max-width: 800px;
-		margin: 0 auto;
-		padding: 50px;
-	}
-	
-	.section {
-		margin-top: 50px;
-		border-top: 1px solid #fff;
-		padding-top: 50px;
-	}
-	
-	.section h3 {
-		font-size: 1.5em;
-		color: #fff;
-		margin-top: 0;
-		text-shadow: 2px 2px #000;
-	}
-	
-	.section p {
-		margin-top: 15px;
-	}
-	
-	.section ul {
-		margin-top: 15px;
-		padding-left: 30px;
-	}
-	
-	.section li {
-		margin-top: 5px;
-	}
-	
-	.section li:before {
-		content: "•";
-		color: #fff;
-		display: inline-block;
-		margin-right: 5px;
-	}
-</style>
-</head>
-<body>
-	<div class="container">
-		<h1>Cool Project</h1>
-		<p>A cool description of your project goes here.</p>
-    <h2>Getting Started</h2>
-	<p>To get started with this project, you will need to clone the repository:</p>
-	<code>git clone https://github.com/yourusername/cool-project.git</code>
-	
-	<div class="section">
-		<h3>Installation</h3>
-		<p>Once you have cloned the repository, you can install the necessary dependencies by running:</p>
-		<code>npm install</code>
-		<p>After the installation is complete, you can start the project by running:</p>
-		<code>npm start</code>
-	</div>
-	
-	<div class="section">
-		<h3>Usage</h3>
-		<p>Once the project is running, you can access it at <a href="http://localhost:3000">http://localhost:3000</a>.</p>
-		<p>The project supports the following features:</p>
-		<ul>
-			<li>Feature 1</li>
-			<li>Feature 2</
+  <head>
+    <title>README for holbertonschool-printf project</title>
+  </head>
+  <body>
+    <h1>holbertonschool-printf project</h1>
+    <p>This is a project for Holberton School students to learn about the printf function in C programming language.</p>
+<h2>Project description</h2>
+<p>The objective of this project is to create our own version of the printf function in C programming language. The printf function is a standard function in C that is used to print output to the console or other output streams. It allows the programmer to format the output according to specific rules, such as the type of data being printed, the width and precision of the output, and the number of arguments being passed to the function.</p>
+
+<h2>Project requirements</h2>
+<p>The project requirements are:</p>
+<ul>
+  <li>Create a function that mimics the behavior of the printf function.</li>
+  <li>The function should be able to handle the following conversion specifiers: c, s, %, d, i, u, o, x, X, p.</li>
+  <li>The function should be able to handle the following flags: -, 0, ., *.</li>
+  <li>The function should be able to handle the following length modifiers: hh, h, l, ll.</li>
+  <li>The function should pass all the test cases provided by Holberton School.</li>
+</ul>
+
+<h2>How to use the printf function</h2>
+<p>To use the printf function, include the "holberton.h" header file in your C program and call the function with the appropriate format specifier and arguments.</p>
+<p>For example:</p>
+<code>printf("Hello, %s!", "world");</code>
+
+<h2>Contributors</h2>
+<p>This project was created by Amine Ayari and Yassin Bahri.</p>
+
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+ </body>
+</html>
