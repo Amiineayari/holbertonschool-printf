@@ -25,7 +25,7 @@
 <code>printf("Hello, %s!", "world");</code>
 
 <h2>Contributors</h2>
-<p>This project was created by Amine Ayari and Yassin Bahri.</p>
+<p>This project was created by Amine Ayari .</p>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
